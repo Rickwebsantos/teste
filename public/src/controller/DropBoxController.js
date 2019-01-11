@@ -2,7 +2,7 @@ class DropBoxController{
     constructor(){
 
         //nome do nó principal do bd
-        this.currentFolder = ['Inova'];
+        this.currentFolder = ['HCODE'];
 
         //método para avisar que cada click é um tipo de seleção
         this.onselectionchange = new Event('selectionchange')
